@@ -49,4 +49,3 @@ elif age >=18:
 
 print (f"Your admission price is ${price}")
 print('\n')
-

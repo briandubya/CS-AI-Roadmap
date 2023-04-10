@@ -1,0 +1,11 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: core/PCC/PCC_Intro
+  title: Python Crash Course
+  sections:
+  - file: core/PCC/6.dictionaries
+    title: Chapter 6 - Dictionaries
